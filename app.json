@@ -1,11 +1,11 @@
 {
-  "name": "inrl",
-  "description": "inrl-wa-bot-md",
+  "name": "HANDSOME-MD",
+  "description": "A Multi Device WhatsApp Bot By Ahl Tech",
   "keywords": [],
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "to run the bot",
+      "description": "Put Session to run the bot",
       "required": true,
       "value": ""
     },
@@ -22,12 +22,12 @@
     "WORKTYPE": {
       "description": "enter bot mode must be public/private",
       "required": true,
-      "value": "private"
+      "value": "public"
     },
     "BOT_INFO": {
       "description": "baasic bot configration",
       "required": true,
-      "value": "INRL-BOT-MD;INRL;https://i.imgur.com/DyLAuEh.jpg"
+      "value": "HANDSOME-MD;⏤͟͟͞͞★ŦɑƦحɑɳ ֆᎥɑɭ⏤͟͟͞͞★;https://telegra.ph/file/3ea0035e2c7b1ab2615e0.jpg"
     },
     "PREFIX": {
       "description": "bot preifx  ., [.,!], false",
@@ -37,12 +37,12 @@
     "AUDIO_DATA": {
       "description": "audio metadata",
       "required": true,
-      "value": "ᴍᴜꜱɪᴄ;ᴋɪᴅ;https://i.imgur.com/DyLAuEh.jpg"
+      "value": "ᴍᴜꜱɪᴄ;ᴋɪᴅ;https://telegra.ph/file/3ea0035e2c7b1ab2615e0.jpg"
     },
     "STICKER_DATA": {
       "description": "sticker data",
       "required": true,
-      "value": "inrl;inrl"
+      "value": "Handsome-Md;Wa-Bot"
     },
     "AUTO_STATUS_VIEW": {
       "description": "automatic read status",
