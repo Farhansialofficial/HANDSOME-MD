@@ -1,43 +1,43 @@
-## INRL Multi Device Whatsapp Bot.
+# HANDSOME-MD WHATSAPP BOT.
 
-***
+
 
 ### SETUP
 
 1. Fork The Repo
     <br>
-<a href="https://github.com/inrl-official/inrl-bot-md/fork"><img title="INRL-MD" src="https://img.shields.io/badge/FORK INRL-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Farhansialofficial/HANDSOME-MD/fork"><img title="HANDSOME-MD" src="https://img.shields.io/badge/FORK INRL-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 2. Scan Qr
     <br>
-<a href="https://inrl-web-production.up.railway.app/viwe/friendpage"><img title="SCAN QR" src="https://img.shields.io/badge/GET SESSION-h?color=black&style=for-the-badge&logo=msi"></a>
+<a href="https://inrl-web-production.up.railway.app/session/qr"><img title="SCAN QR" src="https://img.shields.io/badge/GET SESSION-h?color=black&style=for-the-badge&logo=msi"></a>
 
 
 
-### INRL-MD Deploy Methods
+### HANDSOME-MD DEPLOY METHODS
 
 -------
 
 #### Deploy To Heroku 
 
-<a href="https://inrl-web-production.up.railway.app/deploy/heroku"><img title="INRL-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Farhansialofficial/HANDSOME-MD"><img title="INRL-MD Deploy Heroku" src="https://img.shields.io/badge/DEPLOY HEROKU-h?color=black&style=for-the-badge&logo=heroku"></a>
 
 
 ---
 #### Deploy To Railway
 
-<a href="https://inrl-web-production.up.railway.app/info/deploy/railway"><img title="INRL-MD Deploy Railway" src="https://img.shields.io/badge/DEPLOY RAILWAY-h?color=black&style=for-the-badge&logo=Railway"></a>
+<a href="https://inrl-web-production.up.railway.app/info/deploy/railway"><img title=" Deploy Railway" src="https://img.shields.io/badge/DEPLOY RAILWAY-h?color=black&style=for-the-badge&logo=Railway"></a>
 
 
 ---
 #### Deploy To Koyeb
 
-<a href="https://inrl-web-production.up.railway.app/info/deploy/koyeb"><img title="INRL-MD Deploy Koyeb" src="https://img.shields.io/badge/DEPLOY KOYEB-h?color=black&style=for-the-badge&logo=koyeb"></a>
+<a href="https://inrl-web-production.up.railway.app/info/deploy/koyeb"><img title=" Deploy Koyeb" src="https://img.shields.io/badge/DEPLOY KOYEB-h?color=black&style=for-the-badge&logo=koyeb"></a>
 
 ---
 #### Deploy To Replit
 
-<a href="https://replit.com/github/inrl-official/INRL-MD"><img title="INRL-MD Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
+<a href="https://replit.com/github/Farhansialofficial/HANDSOME-MD"><img title="Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
 
 ---
  ### Termux Guide
