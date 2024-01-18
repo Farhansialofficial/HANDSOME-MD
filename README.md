@@ -10,8 +10,7 @@
 
 2. Scan Qr
     <br>
-<a href="https://inrl-web-production.up.railway.app/session/qr"><img title="SCAN QR" src="https://img.shields.io/badge/GET SESSION-h?color=black&style=for-the-badge&logo=msi"></a>
-
+<a href="https://upper-romy-inrl-bot.koyeb.app/viwe/friendpage"><img title="SCAN QR" src="https://img.shields.io/badge/GET SESSION-h?color=black&style=for-the-badge&logo=msi"></a>
 
 
 ### HANDSOME-MD DEPLOY METHODS
